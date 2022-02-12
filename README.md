@@ -36,28 +36,20 @@
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anand-gupta-824980158/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-sehrawat" /></a>
-  <a title="anandgupta654321@gmail.com" href="mailto:anandgupta654321@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
+<a href="linkedin.com/in/radhika-gupta-8b1728217" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="RadhiikaMitGupta" /></a>
+  <a title="radhika2017gupta@gmail.com" href="mailto: radhika2017gupta@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="RadhikaMitGupta" /></a> 
 </p>
 
 
 <h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand7071&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="m-sehrawat" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&border_radius=0" alt="m-sehrawat" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RadhikaMitGupta&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="m-sehrawat" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhikaMitGupta&layout=compact&border_radius=0" alt="m-sehrawat" height="139" />
 </p>
 
 
-<!-- <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
+ 
 
-<p>
-<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone&locale=en&border_radius=0" alt="m-sehrawat"/>
-</a>
-  <a href="">
-<img align="center" src="" alt="m-sehrawat"/>
-</a>
-</p> -->
 
 
 
